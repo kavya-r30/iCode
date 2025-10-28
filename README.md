@@ -158,4 +158,3 @@ $ git clone https://github.com/kavya-r30/Anti-Kaleshi-Inheritance.git
 ![Screenshot](https://drive.google.com/uc?export=view&id=1h6J-gnhCaVDroFSF50i3s8-O5gDM3u6u)
 ![Screenshot](https://drive.google.com/uc?export=view&id=1gosE8xp9DMwWi901E8Wd0mk8vjM0kYwO)
 
-https://drive.google.com/file/d/1woRXCUYGKQElil4Dgj63bVc7yyqu0Zpy/view
